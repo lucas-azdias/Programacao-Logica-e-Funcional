@@ -2,4 +2,4 @@ A \rightarrow B
 B \leftrightarrow A
 A \wedge B \wedge (C \vee B) \rightarrow D
 \exists P(A) \vee B
-\forall P(A) \equiv \B
+\forall P(A) \equiv B
