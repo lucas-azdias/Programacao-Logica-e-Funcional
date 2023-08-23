@@ -1,5 +1,5 @@
 A \rightarrow B \vee C
-B \vee D \rightarrow C \leftrightarrow A
+B \vee D \leftrightarrow A
 A \wedge B \wedge (C \vee B) \rightarrow D
-\exists A P(A \rightarrow B) \vee B \equiv D
-\forall A P(A \vee C) \equiv B \rightarrow D
+\exists A P(A \rightarrow B) \vee B
+\forall A P(A) \equiv B
